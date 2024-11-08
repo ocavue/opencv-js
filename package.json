@@ -3,7 +3,7 @@
   "version": "4.10.0-release.1",
   "description": "OpenCV JavaScript version for node.js or browser",
   "type": "module",
-  "main": "dist/opencv_js.js",
+  "main": "dist/opencv_worker_esm.js.js",
   "types": "dist/src/index.d.ts",
   "files": [
     "dist/",
