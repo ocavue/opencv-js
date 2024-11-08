@@ -93,7 +93,6 @@ export declare function FS_createDataFile(
 ): any;
 
 import { Algorithm, type LineTypes, Mat, type NormTypes, RotatedRect } from ".";
-import "../_cv";
 
 /**
  * Base class for Contrast Limited Adaptive Histogram Equalization.

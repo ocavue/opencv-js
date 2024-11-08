@@ -6,5 +6,4 @@ const _1 = require(".");
 Object.defineProperty(exports, "InputArray", { enumerable: true, get: function () { return _1.Mat; } });
 Object.defineProperty(exports, "InputOutputArray", { enumerable: true, get: function () { return _1.Mat; } });
 Object.defineProperty(exports, "OutputArray", { enumerable: true, get: function () { return _1.Mat; } });
-require("../_cv");
 //# sourceMappingURL=_hacks.js.map

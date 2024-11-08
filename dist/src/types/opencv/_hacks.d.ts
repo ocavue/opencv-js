@@ -67,7 +67,6 @@ export declare function exceptionFromPtr(err: number): any;
 export declare function onRuntimeInitialized(): any;
 export declare function FS_createDataFile(arg0: string, path: string, data: Uint8Array, arg3: boolean, arg4: boolean, arg5: boolean): any;
 import { Algorithm, type LineTypes, Mat, type NormTypes, RotatedRect } from ".";
-import "../_cv";
 /**
  * Base class for Contrast Limited Adaptive Histogram Equalization.
  */
